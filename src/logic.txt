@@ -1,0 +1,12 @@
+1) ekta user asbe 
+2) then se tar prio manush er nam likhbe
+3) any line add korle korbe na hoile comon text nibe 
+4) take ekta link jenarate korbe api er maddhome 
+5) erpor jokhn se sei api diye asbe tokhn sei user wish pabe tar name abong text diye
+
+
+technology:
+1) tailwindCSS//Sass
+2) React
+3) Laravel
+4) mysql//firebase
